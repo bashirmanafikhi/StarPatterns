@@ -1,0 +1,3 @@
+﻿  main.c
+e:\local repositories\c\02\my second projects\project5\main.c(33): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Project5.vcxproj -> E:\Local Repositories\c\02\My Second Projects\Debug\Project5.exe
